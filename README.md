@@ -28,8 +28,7 @@
 - 💻 Solved 180+ Coding Problems
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://your-portfolio.com
+- 📧 Email: pavanreddy1048@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/pavan-reddy-79b348376/
 
 > "Consistency beats talent when talent doesn't stay consistent."
