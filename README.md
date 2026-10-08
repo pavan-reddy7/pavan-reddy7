@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Computer Science and Business Systems (CSBS) at VIT-AP University.
 
-💻 Passionate about Software Development, Data Structures & Algorithms, and Problem Solving. I'm currently improving my coding skills through Striver's A2Z DSA Sheet while building real-world web applications and exploring modern technologies.
+💻 Passionate about Software Development, Data Structures & Algorithms, and Problem Solving. I'm currently improving my coding skills solving DSA Sheet while building real-world web applications and exploring modern technologies.
 
 ## 🚀 Currently Working On
 - 📚 Data Structures & Algorithms (C++)
