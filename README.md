@@ -24,7 +24,7 @@
 
 ## 🏆 Achievements
 - 💼 Completed Web Development Internship at SkillCraft Technology
-- ⭐ CodeChef Rating: 1151 (1★)
+- ⭐ CodeChef Rating: 1200 (1★)
 - 💻 Solved 180+ Coding Problems
 
 ## 📫 Connect with Me
